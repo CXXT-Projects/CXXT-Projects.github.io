@@ -1,2 +1,1 @@
-# CXXT-Projects.github.io
-CXXT Home Page
+# 关于崇新学堂
