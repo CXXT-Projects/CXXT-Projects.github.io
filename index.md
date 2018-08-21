@@ -4,4 +4,4 @@ title: Home
 ---
 
 # 关于崇新学堂
-233|666|[view projects](./projects/index.html)
+[项目](./projects/index.html)| [主页]()| [博客]()|
