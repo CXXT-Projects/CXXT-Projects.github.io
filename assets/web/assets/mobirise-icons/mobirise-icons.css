@@ -136,7 +136,7 @@
   content: "\e924";
 }
 .mbri-down:before {
-  content: "\e925";
+  content: "↓";
 }
 .mbri-download:before {
   content: "\e989";
